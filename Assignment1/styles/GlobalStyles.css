@@ -1,0 +1,146 @@
+@charset "utf-8";
+
+
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+#container {
+	margin: auto;
+	width: 1000px;
+}
+body {
+	background-image: url(../images/321488_4830.jpg);
+	background-attachment: scroll;
+	background-position: center center;
+	background-repeat: repeat-x;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#nav_bar {
+	background-color:#000;
+	width: 100%;
+	float: left;
+	text-align: center;
+	height: auto;
+	font-weight: bolder;
+}
+.nav_text {
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+	font-family: "Cambria Math";
+	color: #F00;
+}
+
+
+#main_content {
+	background-color: #FFF;
+	width: 100%;
+	float: left;
+	background-image: none;
+	background-repeat: no-repeat;
+	background-position: right center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 16px;
+	color: #FF3333;
+	font-weight: bold;
+}
+
+#footer {
+	background-color: #CCC;
+	width: 100%;
+	float: left;
+	font-size: 18px;
+	height: auto;
+	background-image: url(../images/sand.jpg);
+	color:#000;
+	font-weight: bold;
+	background-position: center top;
+}
+#main_content h1 strong {
+	font-family: Comic Sans MS, cursive;
+}
+#main_content p strong {
+	font-family: Courier New, Courier, monospace;
+}
+#main_content p strong {
+	font-family: Trebuchet MS, Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+#background_img {
+	height: auto;
+	width: 100%;
+	position: fixed;
+	z-index: -100;
+	left: 0px;
+	top: 0px;
+}
+.tournament_text {
+	padding-left: 70px;
+}
+.home_img {
+	padding-left: 0px;
+	padding-right: 20px;
+	float: left;
+	margin-top: -10px;
+	padding-bottom: -10px;
+	margin-bottom: -10px;
+}
+
+
+#logo {
+	padding-bottom:10px;
+	padding-top:10px;
+}
+.joinUs_text {
+	font-family: "Comic Sans MS", cursive;
+	font-size: 24px;
+	font-weight: bold;
+	color: #F00;
+}
+
+.home_text {
+	padding-right: 20px;
+	color: #000;
+	font-size: 18px;
+	font-weight: normal;
+	padding-left: 30px;
+	float: none;
+	text-align: left;
+	padding-top: -10px;
+}
+
+.receving_img {
+	position: fixed;
+	float: left;
+}
+#main_content table {
+	color: #000;
+	font-weight: normal;
+	text-align: left;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 600px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+.heading {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-weight: bold;
+	color: #03F;
+	padding-left: 30px;
+	margin-top: -10px;
+}
+.spike_img {
+	padding-bottom: 10px;
+
+}
+.link_text {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000;
+	padding-left: 30px;
+}

@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../styles/GlobalStyles.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+a:link {
+	color: #CC0000;
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFFF00;
+}
+a:active {
+	text-decoration: none;
+	color: #FFFF00;
+	font-size: 16px;
+}
+</style>
+</head>
+
+<body>
+<div id="container">
+<div id="banner">
+  <p align="center"><img src="../images/vector_volleyball.png" width="130" height="120" /><img src="../images/diggersText.png" width="350" height="118" /></p>
+  </div>
+  <div id="nav_bar">
+    <table width="102%" height="126" border="0" class="nav_text" id="nav_bar">
+      <tr>
+  
+        <td width="145" height="88" class="nav_text"><a href="../index.html" class="nav_text">HOME</a></td>
+        <td width="212" class="nav_text"><a href="../aboutVolleyball.html" class="nav_text">ABOUT VOLLEYBALL</a></td>
+        <td width="190" class="nav_text"><a href="../whoCanPlay.html" class="nav_text">WHO CAN PLAY</a></td>
+        <td width="197" class="nav_text"><a href="../tournament.html" class="nav_text">TOURNAMENT</a></td>
+        <td width="149" class="nav_text"><a href="../links.html" class="nav_text">LINKS</a></td>
+        <td width="161" class="nav_text"><a href="file:///C|/Users/User/Documents/B. Information Technology/Sem 3/CP1406 Interactive Media and Web/Form.html"><a href="Form.html"></a><a href="../contact.html" class="nav_text">CONTACT</a></td>
+
+      </tr>
+    </table>
+ <div id="main_content"><!-- TemplateBeginEditable name="MainContent" -->
+  <p>This is Main Body Content</p>
+  <!-- TemplateEndEditable --></div>
+
+<div id="footer">
+  <p align="center">Diggers Beach Volleyball All right reserved 2015</p>
+</div>
+<img src="../images/beachNet.jpg" name="background_img" width="2272" height="1704" id="background_img" />
+</body>
+</html>
